@@ -10,7 +10,54 @@ website:
         text: "Home"
       - href: cv.qmd
         text: "CV"
-        
+      - text: "Undergraduate Notes"
+        menu:
+          - href: undergrad/classical-physics.qmd
+            text: "Classical Physics"
+          - href: undergrad/special-relativity.qmd
+            text: "Special Relativity"
+          - href: undergrad/quantum-mechanics.qmd
+            text: "Quantum Mechanics"
+          - href: undergrad/differential-geometry.qmd
+            text: "Differential Geometry"
+          - href: undergrad/lie-algebras.qmd
+            text: "Lie Algebras"
+      - text: "Postgraduate Notes"
+        menu:
+          - href: postgrad/qft-standard-model.qmd
+            text: "QFT and the Standard Model"
+          - href: postgrad/general-relativity.qmd
+            text: "General Relativity"
+          - href: postgrad/string-theory.qmd
+            text: "String Theory"
+          - href: postgrad/quantum-groups.qmd
+            text: "Quantum Groups & Integrable Systems"
+          - href: postgrad/higher-symmetries.qmd
+            text: "Higher Symmetries"
+
+  sidebar:
+    - title: "Classical Physics"
+      style: "docked"
+      contents:
+        - tutorials.qmd
+        - tutorial-1.qmd
+        - tutorial-2.qmd
+
+    - title: "How-To"
+      contents:
+        - howto.qmd
+        # navigation items
+
+    - title: "Fundamentals"
+      contents:
+        - fundamentals.qmd
+        # navigation items
+
+    - title: "Reference"
+      contents:
+        - reference.qmd
+        # navigation items
+
 format:
   html:
     theme:

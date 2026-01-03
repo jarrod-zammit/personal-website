@@ -10,5 +10,17 @@
   },
   "cv.qmd": {
     "cv.html": "ffdd3f76"
+  },
+  "postgrad/classical-physics.qmd": {
+    "classical-physics.html": "cc960121"
+  },
+  "undergrad/qft-standard-model.qmd": {
+    "qft-standard-model.html": "db931f8b"
+  },
+  "undergrad/classical-physics.qmd": {
+    "classical-physics.html": "9554e61d"
+  },
+  "postgrad/qft-standard-model.qmd": {
+    "qft-standard-model.html": "1fbcd491"
   }
 }
