@@ -15,6 +15,6 @@ website:
 format:
   html:
     theme:
-      - cosmo
+      - flatly
     css: styles.css
     toc: true
