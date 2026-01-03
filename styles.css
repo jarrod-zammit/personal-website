@@ -1,17 +1,1 @@
 /* css styles */
-
-a {
-  color: #7a7a7a;          /* soft grey */
-  text-decoration: none;  /* optional */
-}
-
-/* Hover state */
-a:hover {
-  color: #5f5f5f;          /* slightly darker grey */
-  text-decoration: underline;
-}
-
-/* Visited links */
-a:visited {
-  color: #8a8a8a;
-}
