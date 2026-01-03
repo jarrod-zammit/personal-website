@@ -4,7 +4,8 @@ title: "Jarrod Zammit"
 
 I am interested in mathematical and theoretical physics.
 
-## Research interests
+
+## Research Interests
 
 - Quantum Field Theory
     - Non-Abelian Gauge Theories
@@ -12,12 +13,22 @@ I am interested in mathematical and theoretical physics.
 - Quantum Groups
 - String Theory
 
-## Academic history
+## Academic History
 
-- *2022-2024*: Bachelor of Science at ANU (93/100)
-- *2025*: Bachelor of Science (Honours) at USYD (91/100)
+### 2022-2024: Bachelor of Science at ANU
 
-## People I know
+At ANU I majored in mathematics and minored in physics. I was the top student in third year physics courses in 2023, and graduated with a WAM of 93/100.
 
-Declan Zammit
-Zsuzsanna Dansco
+### 2025: Bachelor of Science (Honours) at USYD
+
+At USYD I completed an honours in pure maths. 
+
+- My thesis project was titled _Tensor Invariants of Welded Tangles_, and completed under the supervision of associate professor [Zsuzsanna Dancso](https://www.zsuzsannadancso.net/). 
+
+- I was nominated by the school of mathematics for a university medal, and graduated with a WAM of 91/100.
+
+
+
+## People I Know
+
+[Declan Zammit](https://waftyhubris.github.io/math/)
