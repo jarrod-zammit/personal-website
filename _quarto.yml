@@ -1,13 +1,18 @@
 project:
   type: website
+  output-dir: "_site"
 
 website:
   title: "Jarrod Zammit"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: "Home"
+      - href: about.qmd
+        text: "About"
+      - href: contact.qmd
+        text: "Contact"
+        
 
 format:
   html:
@@ -16,6 +21,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
-
