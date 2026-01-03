@@ -5,14 +5,13 @@ title: "Jarrod Zammit"
 Hi! My name is Jarrod, and I just completed my Honours degree at the University of Sydney. I am currently applying to Masters programs in Theoretical Physics.
 
 
-## Current Areas of Interest
+## Snapshot of Me
+
+My research interests are:
 
 - Higher symmetries in QFT
 - Applications of quantum groups to integrable systems
 - String theory
-
-
-## Snapshot of Me
 
 When I am not studying, you might find me:
 
@@ -20,9 +19,14 @@ When I am not studying, you might find me:
 - Lost in a good book or movie
 - Writing my own stories
 
-**Favourite university courses:** Complex Analysis; Algebraic Topology; Commutative Algebra; General Relativity; QFT I & II.
+**Favourite Courses:** Complex Analysis, Algebraic Topology, Commutative Algebra, General Relativity and QFT I & II.
 
-**Least favourite university course:** My first course in Real Analysis. I have since overcome my fear of epsilon's and delta's.
+**Least Favourite Course:** My first course in Real Analysis. I have since overcome my fear of epsilon's and delta's.
+
+
+
+
+
 
 
 
