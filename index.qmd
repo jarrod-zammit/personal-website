@@ -1,0 +1,14 @@
+---
+title: "Jarrod Zammit"
+---
+
+I am interested in mathematical and theoretical physics.
+
+## Research interests
+
+- Quantum Field Theory
+    - Non-Abelian Gauge Theories
+    - Higher Symmetries
+- Quantum Groups
+- String Theory
+
