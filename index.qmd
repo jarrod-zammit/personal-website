@@ -2,18 +2,28 @@
 title: "Jarrod Zammit"
 ---
 
-Hi! My name is Jarrod, and I am in between things right now. Last year I completed my honours degree at the University of Sydney. I am currently investigating European Master's programs in Theoretical Physics for an Autumn 2026 commencement.
-
-When I am not studying maths and physics, you might find me writing fiction, reading fiction, out for a walk, watching a movie, or sleeping.
+Hi! My name is Jarrod, and I just completed my Honours degree at the University of Sydney. I am currently applying to European Master's programs in Theoretical Physics.
 
 
-## Research Interests
+## Current Areas of Interest
 
-- Quantum Field Theory
-    - Non-Abelian Gauge Theories
-    - Higher Symmetries
-- Quantum Groups
-- String Theory
+- Higher symmetries in QFT
+- Applications of quantum groups to integrable systems
+- String theory
+
+
+## Snapshot of Me
+
+When I am not studying, you might find me:
+
+- Out for a walk
+- Lost in a good book or movie
+- Writing my own stories
+
+**Favourite university courses:** Complex Analysis; Algebraic Topology; Commutative Algebra; General Relativity; QFT I & II.
+
+**Least favourite university course:** My first course in Real Analysis. I have since overcome my fear of epsilon's and delta's.
+
 
 
 

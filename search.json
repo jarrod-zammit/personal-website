@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Jarrod Zammit",
     "section": "",
-    "text": "I am interested in mathematical and theoretical physics."
+    "text": "Hi! My name is Jarrod, and I just completed my Honours degree at the University of Sydney. I am currently applying to European Master’s programs in Theoretical Physics."
   },
   {
     "objectID": "index.html#research-interests",
@@ -51,9 +51,9 @@
   {
     "objectID": "academic-history.html",
     "href": "academic-history.html",
-    "title": "Academic History",
+    "title": "CV",
     "section": "",
-    "text": "At ANU, I majored in mathematics and minored in physics.\n\nTop student in third year physics courses in 2023.\nGraduated with a WAM of 93/100.\n\n\n\n\nAt USYD, I completed an honours in pure maths.\n\nThesis project: Tensor Invariants of Welded Tangles.\n\nSupervisor: Associate Professor Zsuzsanna Dancso.\n\nNominated for a university medal.\nGraduated with a WAM of 91/100."
+    "text": "2022-2024: Bachelor of Science at ANU\nAt ANU, I majored in mathematics and minored in physics.\n\nTop student in third year physics courses in 2023.\nWAM: 93/100.\n\n2025: Bachelor of Science (Honours) at USYD\nAt USYD, I completed an honours in pure maths.\n\nThesis project: Tensor Invariants of Welded Tangles.\n\nSupervisor: Associate Professor Zsuzsanna Dancso.\n\nNominated for a university medal.\nWAM: 91/100."
   },
   {
     "objectID": "academic-history.html#academic-history",
@@ -61,5 +61,40 @@
     "title": "Academic History",
     "section": "",
     "text": "At ANU, I majored in mathematics and minored in physics.\n\nTop student in third year physics courses in 2023.\nGraduated with a WAM of 93/100.\n\n\n\n\nAt USYD, I completed an honours in pure maths.\n\nThesis project: Tensor Invariants of Welded Tangles.\n\nSupervisor: Associate Professor Zsuzsanna Dancso.\n\nNominated for a university medal.\nGraduated with a WAM of 91/100."
+  },
+  {
+    "objectID": "index.html#a-quick-snapshot-of-who-i-am",
+    "href": "index.html#a-quick-snapshot-of-who-i-am",
+    "title": "Jarrod Zammit",
+    "section": "A quick snapshot of who I am:",
+    "text": "A quick snapshot of who I am:\n\nI think integral symbols are very pretty.\n\n\n\n\nWhen I am not studying maths and physics you might find me writing fiction; reading fiction; out for a walk; watching a movie; or thinking about maths and physics."
+  },
+  {
+    "objectID": "index.html#a-snapshot-of-me",
+    "href": "index.html#a-snapshot-of-me",
+    "title": "Jarrod Zammit",
+    "section": "A Snapshot of Me",
+    "text": "A Snapshot of Me\n\nI think integral symbols are very pretty.\n\n\n\n\nWhen I am not studying maths and physics you might find me writing fiction; reading fiction; out for a walk; watching a movie; or thinking about maths and physics."
+  },
+  {
+    "objectID": "index.html#current-areas-of-interest",
+    "href": "index.html#current-areas-of-interest",
+    "title": "Jarrod Zammit",
+    "section": "Current Areas of Interest",
+    "text": "Current Areas of Interest\n\nHigher symmetries in QFT\nApplications of quantum groups to integrable systems\nString theory"
+  },
+  {
+    "objectID": "index.html#snapshot-of-me",
+    "href": "index.html#snapshot-of-me",
+    "title": "Jarrod Zammit",
+    "section": "Snapshot of Me",
+    "text": "Snapshot of Me\nWhen I am not studying, you might find me:\n\nOut for a walk\nLost in a good book or movie\nWriting my own stories\n\nFavourite university courses: Complex Analysis; Algebraic Topology; Commutative Algebra; General Relativity; QFT I & II.\nLeast favourite university course: My first course in Real Analysis. I have since overcome my fear of epsilon’s and delta’s."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "My CV is attached here."
   }
 ]

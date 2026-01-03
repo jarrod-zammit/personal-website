@@ -8,10 +8,9 @@ website:
     left:
       - href: index.qmd
         text: "Home"
-      - href: academic-history.qmd
-        text: "History & CV"
+      - href: cv.qmd
+        text: "CV"
         
-
 format:
   html:
     theme:
