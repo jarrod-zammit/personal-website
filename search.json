@@ -25,7 +25,7 @@
     "href": "index.html#academic-history",
     "title": "Jarrod Zammit",
     "section": "Academic History",
-    "text": "Academic History\n\n2022-2024: Bachelor of Science at ANU\nAt ANU I majored in mathematics and minored in physics. I was the top student in third year physics courses in 2023, and graduated with a WAM of 93/100.\n\n\n2025: Bachelor of Science (Honours) at USYD\nAt USYD I completed an honours in pure maths.\n\nMy thesis project was titled Tensor Invariants of Welded Tangles, and completed under the supervision of associate professor Zsuzsanna Dancso.\nI was nominated by the school of mathematics for a university medal, and graduated with a WAM of 91/100."
+    "text": "Academic History\n\n2022-2024: Bachelor of Science at ANU\nAt ANU, I majored in mathematics and minored in physics.\n\nTop student in third year physics courses in 2023.\nGraduated with a WAM of 93/100.\n\n\n\n2025: Bachelor of Science (Honours) at USYD\nAt USYD, I completed an honours in pure maths.\n\nThesis project: Tensor Invariants of Welded Tangles.\n\nSupervisor: Associate Professor Zsuzsanna Dancso.\n\nNominated for a university medal.\nGraduated with a WAM of 91/100."
   },
   {
     "objectID": "index.html#people-i-know",
@@ -47,5 +47,19 @@
     "title": "Jarrod Zammit",
     "section": "Who am I?",
     "text": "Who am I?"
+  },
+  {
+    "objectID": "academic-history.html",
+    "href": "academic-history.html",
+    "title": "Academic History",
+    "section": "",
+    "text": "At ANU, I majored in mathematics and minored in physics.\n\nTop student in third year physics courses in 2023.\nGraduated with a WAM of 93/100.\n\n\n\n\nAt USYD, I completed an honours in pure maths.\n\nThesis project: Tensor Invariants of Welded Tangles.\n\nSupervisor: Associate Professor Zsuzsanna Dancso.\n\nNominated for a university medal.\nGraduated with a WAM of 91/100."
+  },
+  {
+    "objectID": "academic-history.html#academic-history",
+    "href": "academic-history.html#academic-history",
+    "title": "Academic History",
+    "section": "",
+    "text": "At ANU, I majored in mathematics and minored in physics.\n\nTop student in third year physics courses in 2023.\nGraduated with a WAM of 93/100.\n\n\n\n\nAt USYD, I completed an honours in pure maths.\n\nThesis project: Tensor Invariants of Welded Tangles.\n\nSupervisor: Associate Professor Zsuzsanna Dancso.\n\nNominated for a university medal.\nGraduated with a WAM of 91/100."
   }
 ]
