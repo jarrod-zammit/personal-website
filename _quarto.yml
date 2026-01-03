@@ -35,29 +35,6 @@ website:
           - href: postgrad/higher-symmetries.qmd
             text: "Higher Symmetries"
 
-  sidebar:
-    - title: "Classical Physics"
-      style: "docked"
-      contents:
-        - tutorials.qmd
-        - tutorial-1.qmd
-        - tutorial-2.qmd
-
-    - title: "How-To"
-      contents:
-        - howto.qmd
-        # navigation items
-
-    - title: "Fundamentals"
-      contents:
-        - fundamentals.qmd
-        # navigation items
-
-    - title: "Reference"
-      contents:
-        - reference.qmd
-        # navigation items
-
 format:
   html:
     theme:
