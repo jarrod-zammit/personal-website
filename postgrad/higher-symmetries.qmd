@@ -1,5 +1,3 @@
 ---
 title: "QFT and the Standard Model"
 ---
-
-Under construction

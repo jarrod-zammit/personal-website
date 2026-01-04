@@ -22,5 +22,23 @@
   },
   "postgrad/qft-standard-model.qmd": {
     "qft-standard-model.html": "1fbcd491"
+  },
+  "postgrad/general-relativity.qmd": {
+    "general-relativity.html": "1869f929"
+  },
+  "postgrad/higher-symmetries.qmd": {
+    "higher-symmetries.html": "6f5de907"
+  },
+  "postgrad/quantum-groups.qmd": {
+    "quantum-groups.html": "270a4dce"
+  },
+  "postgrad/string-theory.qmd": {
+    "string-theory.html": "4682b61b"
+  },
+  "undergrad/differential-geometry.qmd": {
+    "differential-geometry.html": "eab2d1ca"
+  },
+  "undergrad/quantum-mechanics.qmd": {
+    "quantum-mechanics.html": "c4a9c1d3"
   }
 }

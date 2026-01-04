@@ -163,9 +163,9 @@
   {
     "objectID": "postgrad/qft-standard-model.html",
     "href": "postgrad/qft-standard-model.html",
-    "title": "Jarrod Zammit",
+    "title": "QFT and the Standard Model",
     "section": "",
-    "text": "Hi! My name is Jarrod, and I just completed an Honours in pure maths at the University of Sydney. I am currently applying to Masters programs in Theoretical Physics."
+    "text": "Under construction"
   },
   {
     "objectID": "postgrad/qft-standard-model.html#snapshot-of-me",
@@ -194,5 +194,40 @@
     "title": "Classical Physics",
     "section": "Variational Principles",
     "text": "Variational Principles\nVariational Principles, which covers:\n\nThe calculus of variations\nThe Euler-Lagrange equations\nNoether’s theorem\nHamilton’s equations\n\nElectrdynamics, which covers:\n\nElectrostatics, magnetostatics, the Lorentz force law\nSolving Maxwell’s equations\nThe genesis of relativity"
+  },
+  {
+    "objectID": "postgrad/general-relativity.html",
+    "href": "postgrad/general-relativity.html",
+    "title": "General Relativity",
+    "section": "",
+    "text": "Under construction"
+  },
+  {
+    "objectID": "postgrad/quantum-groups.html",
+    "href": "postgrad/quantum-groups.html",
+    "title": "Quantum Groups & Integrable Systems",
+    "section": "",
+    "text": "Under construction"
+  },
+  {
+    "objectID": "postgrad/string-theory.html",
+    "href": "postgrad/string-theory.html",
+    "title": "String Theory",
+    "section": "",
+    "text": "Under construction"
+  },
+  {
+    "objectID": "undergrad/differential-geometry.html",
+    "href": "undergrad/differential-geometry.html",
+    "title": "Differential Geometry & Lie Theory",
+    "section": "",
+    "text": "Differential Geometry\n\nManifolds, metrics and tensor fields\nChristoffel symbols and the covariant derivative\nConnections\nLie derivatives and killing vectors\nDifferential forms and Stokes’ theorem\n\nThe PDF is under construction.\n\n\nLie Algebras\n\nImportant Lie algebras\nWeights and roots\nKilling forms & Casimir elements\nBasic representation theory\nLie algebra cohomology\n\nThe PDF is under construction.\n\n\nLie Groups\n\nConnection to Lie algebras\nBasic representation theory\n\nThe PDF is under construction."
+  },
+  {
+    "objectID": "undergrad/quantum-mechanics.html",
+    "href": "undergrad/quantum-mechanics.html",
+    "title": "Quantum Mechanics",
+    "section": "",
+    "text": "Foundations of Quantum Mechanics\n\nWavefunctions and measurements\nObservables\nThe Schrodinger equation\n\nThe PDF is under construction.\n\n\nSimple Quantum Systems\n\nThe infinite square well\nThe harmonic oscillator\nThe hydrogen atom\n\nThe PDF is under construction.\n\n\nAdvanced Topics in Quantum Mechanics\n\nMany body quantum mechanics\nPerturbation theory\nScattering\n\nThe PDF is under construction."
   }
 ]

@@ -14,14 +14,10 @@ website:
         menu:
           - href: undergrad/classical-physics.qmd
             text: "Classical Physics"
-          - href: undergrad/special-relativity.qmd
-            text: "Special Relativity"
           - href: undergrad/quantum-mechanics.qmd
             text: "Quantum Mechanics"
           - href: undergrad/differential-geometry.qmd
-            text: "Differential Geometry"
-          - href: undergrad/lie-algebras.qmd
-            text: "Lie Algebras"
+            text: "Differential Geometry & Lie Theory"
       - text: "Postgraduate Notes"
         menu:
           - href: postgrad/qft-standard-model.qmd

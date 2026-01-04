@@ -1,0 +1,29 @@
+---
+title: "Differential Geometry & Lie Theory"
+---
+
+### Differential Geometry
+- Manifolds, metrics and tensor fields
+- Christoffel symbols and the covariant derivative
+- Connections
+- Lie derivatives and killing vectors
+- Differential forms and Stokes' theorem
+
+The PDF is under construction.
+
+### Lie Algebras
+
+- Important Lie algebras
+- Weights and roots
+- Killing forms & Casimir elements
+- Basic representation theory
+- Lie algebra cohomology
+
+The PDF is under construction.
+
+### Lie Groups
+
+- Connection to Lie algebras
+- Basic representation theory
+
+The PDF is under construction.
