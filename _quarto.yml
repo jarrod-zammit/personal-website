@@ -20,10 +20,10 @@ website:
             text: "Differential Geometry & Lie Theory"
       - text: "Postgraduate Notes"
         menu:
-          - href: postgrad/qft-standard-model.qmd
-            text: "QFT and the Standard Model"
           - href: postgrad/general-relativity.qmd
             text: "General Relativity"
+          - href: postgrad/qft-standard-model.qmd
+            text: "QFT and the Standard Model"
           - href: postgrad/string-theory.qmd
             text: "String Theory"
           - href: postgrad/quantum-groups.qmd
