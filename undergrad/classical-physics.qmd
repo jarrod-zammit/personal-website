@@ -3,3 +3,26 @@ title: "Classical Physics"
 ---
 
 ### Newtonian Mechanics
+
+- Newton's three laws  
+- Conserved quantities in classical physics
+- The universal law of gravitation
+
+The PDF is under construction.
+
+### Variational Principles
+
+- The calculus of variations
+- The Euler-Lagrange equations
+- Noether's theorem
+- Hamilton's equations
+
+The PDF is under construction.
+
+### Electrodynamics
+
+- Electrostatics, magnetostatics, the Lorentz force law
+- Solving Maxwell's equations
+- The genesis of relativity
+
+The PDF is under construction.

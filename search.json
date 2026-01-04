@@ -93,7 +93,7 @@
   {
     "objectID": "cv.html",
     "href": "cv.html",
-    "title": "CV",
+    "title": "CV & Publications",
     "section": "",
     "text": "My CV is attached here.\nI am currently working on turning my Honours thesis into a paper."
   },
@@ -144,7 +144,7 @@
     "href": "undergrad/classical-physics.html",
     "title": "Classical Physics",
     "section": "",
-    "text": "Newtonian Mechanics\nNewton’s Laws: PDF"
+    "text": "Newtonian Mechanics\nThe notes cover:\n\nNewton’s three laws\n\nConserved quantities in classical physics\nThe universal law of gravitation\n\nThe PDF is available here.\n\n\nVariational Principles\nThese notes cover:\n\nThe calculus of variations\nThe Euler-Lagrange equations\nNoether’s theorem\nHamilton’s equations\n\nThe PDF is available here.\n\n\nElectrodynamics\nThese notes cover:\n\nElectrostatics, magnetostatics, the Lorentz force law\nSolving Maxwell’s equations\nThe genesis of relativity\n\nThe PDF is available here."
   },
   {
     "objectID": "undergrad/classical-physics.html#snapshot-of-me",
@@ -180,5 +180,19 @@
     "title": "Jarrod Zammit",
     "section": "People I Know",
     "text": "People I Know\nDeclan Zammit"
+  },
+  {
+    "objectID": "undergrad/classical-physics.html#newtonian-mechanics",
+    "href": "undergrad/classical-physics.html#newtonian-mechanics",
+    "title": "Classical Physics",
+    "section": "",
+    "text": "Newton’s three laws\n\nConserved quantities in classical physics\nThe universal law of gravitation\n\nThe PDF is available here."
+  },
+  {
+    "objectID": "undergrad/classical-physics.html#variational-principles",
+    "href": "undergrad/classical-physics.html#variational-principles",
+    "title": "Classical Physics",
+    "section": "Variational Principles",
+    "text": "Variational Principles\nVariational Principles, which covers:\n\nThe calculus of variations\nThe Euler-Lagrange equations\nNoether’s theorem\nHamilton’s equations\n\nElectrdynamics, which covers:\n\nElectrostatics, magnetostatics, the Lorentz force law\nSolving Maxwell’s equations\nThe genesis of relativity"
   }
 ]

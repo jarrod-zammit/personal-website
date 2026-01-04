@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: "Home"
       - href: cv.qmd
-        text: "CV"
+        text: "CV & Publications"
       - text: "Undergraduate Notes"
         menu:
           - href: undergrad/classical-physics.qmd
