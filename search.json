@@ -219,7 +219,7 @@
   {
     "objectID": "undergrad/differential-geometry.html",
     "href": "undergrad/differential-geometry.html",
-    "title": "Differential Geometry & Lie Theory",
+    "title": "Mathematical Physics",
     "section": "",
     "text": "Differential Geometry\n\nManifolds, metrics and tensor fields\nChristoffel symbols and the covariant derivative\nConnections\nLie derivatives and killing vectors\nDifferential forms and Stokes’ theorem\n\nThe PDF is under construction.\n\n\nLie Algebras\n\nImportant Lie algebras\nWeights and roots\nKilling forms & Casimir elements\nBasic representation theory\nLie algebra cohomology\n\nThe PDF is under construction.\n\n\nLie Groups\n\nConnection to Lie algebras\nBasic representation theory\n\nThe PDF is under construction."
   },
@@ -236,5 +236,12 @@
     "title": "Higher Symmetries in QFT",
     "section": "",
     "text": "Under construction"
+  },
+  {
+    "objectID": "undergrad/mathematical-physics.html",
+    "href": "undergrad/mathematical-physics.html",
+    "title": "Mathematical Physics",
+    "section": "",
+    "text": "Differential Geometry\n\nManifolds, metrics and tensor fields\nChristoffel symbols and the covariant derivative\nConnections\nLie derivatives and killing vectors\nDifferential forms and Stokes’ theorem\n\nThe PDF is under construction.\n\n\nLie Algebras\n\nImportant Lie algebras\nWeights and roots\nKilling forms & Casimir elements\nBasic representation theory\nLie algebra cohomology\n\nThe PDF is under construction.\n\n\nLie Groups\n\nConnection to Lie algebras\nBasic representation theory\n\nThe PDF is under construction."
   }
 ]

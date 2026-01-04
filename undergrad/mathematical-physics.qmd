@@ -1,5 +1,5 @@
 ---
-title: "Differential Geometry & Lie Theory"
+title: "Mathematical Physics"
 ---
 
 ### Differential Geometry

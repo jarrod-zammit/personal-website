@@ -40,5 +40,8 @@
   },
   "undergrad/quantum-mechanics.qmd": {
     "quantum-mechanics.html": "c4a9c1d3"
+  },
+  "undergrad/mathematical-physics.qmd": {
+    "mathematical-physics.html": "a3adb386"
   }
 }
