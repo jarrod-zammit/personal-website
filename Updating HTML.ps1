@@ -1,5 +1,3 @@
-In powershell, run the following command.
-
 cd "C:\Users\***\Documents\personal-website"
 
 while ($true) {
