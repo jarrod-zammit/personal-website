@@ -18,7 +18,7 @@ The PDF is under construction.
 
 The PDF is under construction.
 
-### Advanced Topics in Quantum Mechanics
+### Advanced Topics
 
 - Many body quantum mechanics
 - Perturbation theory

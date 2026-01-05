@@ -144,7 +144,7 @@
     "href": "undergrad/classical-physics.html",
     "title": "Classical Physics",
     "section": "",
-    "text": "Newtonian Mechanics\n\nNewton’s three laws\n\nConserved quantities in classical physics\nThe universal law of gravitation\n\nThe PDF is under construction.\n\n\nVariational Principles\n\nThe calculus of variations\nThe Euler-Lagrange equations\nNoether’s theorem\nHamilton’s equations\n\nThe PDF is under construction.\n\n\nElectrodynamics\n\nElectrostatics, magnetostatics, the Lorentz force law\nSolving Maxwell’s equations\nThe genesis of relativity\n\nThe PDF is under construction."
+    "text": "Newtonian Mechanics\n\nNewton’s three laws\n\nConserved quantities in classical physics\nThe universal law of gravitation\n\nThe PDF is under construction.\n\n\nVariational Principles\n\nThe calculus of variations\nThe Euler-Lagrange equations\nNoether’s theorem\nHamilton’s equations\n\nThe PDF is under construction.\n\n\nElectrodynamics\n\nElectrostatics, magnetostatics, the Lorentz force law\nSolving Maxwell’s equations\nThe genesis of relativity\n\nThe PDF is under construction.\n\n\nSpecial Relativity\n\nThe Lorentz group\nRelativistic dynamics\nClassical field theories\n\nThe PDF is under construction"
   },
   {
     "objectID": "undergrad/classical-physics.html#snapshot-of-me",
@@ -205,7 +205,7 @@
   {
     "objectID": "postgrad/quantum-groups.html",
     "href": "postgrad/quantum-groups.html",
-    "title": "Quantum Groups & Integrable Systems",
+    "title": "Quantum Groups",
     "section": "",
     "text": "Under construction"
   },
@@ -228,7 +228,7 @@
     "href": "undergrad/quantum-mechanics.html",
     "title": "Quantum Mechanics",
     "section": "",
-    "text": "Foundations of Quantum Mechanics\n\nWavefunctions and measurements\nObservables\nThe Schrodinger equation\n\nThe PDF is under construction.\n\n\nSimple Quantum Systems\n\nThe infinite square well\nThe harmonic oscillator\nThe hydrogen atom\n\nThe PDF is under construction.\n\n\nAdvanced Topics in Quantum Mechanics\n\nMany body quantum mechanics\nPerturbation theory\nScattering\n\nThe PDF is under construction."
+    "text": "Foundations of Quantum Mechanics\n\nWavefunctions and measurements\nObservables\nThe Schrodinger equation\n\nThe PDF is under construction.\n\n\nSimple Quantum Systems\n\nThe infinite square well\nThe harmonic oscillator\nThe hydrogen atom\n\nThe PDF is under construction.\n\n\nAdvanced Topics\n\nMany body quantum mechanics\nPerturbation theory\nScattering\n\nThe PDF is under construction."
   },
   {
     "objectID": "postgrad/higher-symmetries.html",
