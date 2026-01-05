@@ -243,5 +243,54 @@
     "title": "Mathematical Physics",
     "section": "",
     "text": "Differential Geometry\n\nManifolds, metrics and tensor fields\nChristoffel symbols and the covariant derivative\nConnections\nLie derivatives and killing vectors\nDifferential forms and Stokes’ theorem\n\nThe PDF is under construction.\n\n\nLie Algebras\n\nImportant Lie algebras\nWeights and roots\nKilling forms & Casimir elements\nBasic representation theory\nLie algebra cohomology\n\nThe PDF is under construction.\n\n\nLie Groups\n\nConnection to Lie algebras\nBasic representation theory\n\nThe PDF is under construction."
+  },
+  {
+    "objectID": "notes/general-relativity.html",
+    "href": "notes/general-relativity.html",
+    "title": "General Relativity",
+    "section": "",
+    "text": "Under construction"
+  },
+  {
+    "objectID": "notes/higher-symmetries.html",
+    "href": "notes/higher-symmetries.html",
+    "title": "Higher Symmetries in QFT",
+    "section": "",
+    "text": "Under construction"
+  },
+  {
+    "objectID": "notes/mathematical-physics.html",
+    "href": "notes/mathematical-physics.html",
+    "title": "Mathematical Physics",
+    "section": "",
+    "text": "Differential Geometry\n\nManifolds, metrics and tensor fields\nChristoffel symbols and the covariant derivative\nConnections\nLie derivatives and killing vectors\nDifferential forms and Stokes’ theorem\n\nThe PDF is under construction.\n\n\nLie Algebras\n\nImportant Lie algebras\nWeights and roots\nKilling forms & Casimir elements\nBasic representation theory\nLie algebra cohomology\n\nThe PDF is under construction.\n\n\nLie Groups\n\nConnection to Lie algebras\nBasic representation theory\n\nThe PDF is under construction."
+  },
+  {
+    "objectID": "notes/qft-standard-model.html",
+    "href": "notes/qft-standard-model.html",
+    "title": "QFT and the Standard Model",
+    "section": "",
+    "text": "Under construction"
+  },
+  {
+    "objectID": "notes/quantum-groups.html",
+    "href": "notes/quantum-groups.html",
+    "title": "Quantum Groups",
+    "section": "",
+    "text": "Under construction"
+  },
+  {
+    "objectID": "notes/quantum-mechanics.html",
+    "href": "notes/quantum-mechanics.html",
+    "title": "Quantum Mechanics",
+    "section": "",
+    "text": "Foundations of Quantum Mechanics\n\nWavefunctions and measurements\nObservables\nThe Schrodinger equation\n\nThe PDF is under construction.\n\n\nSimple Quantum Systems\n\nThe infinite square well\nThe harmonic oscillator\nThe hydrogen atom\n\nThe PDF is under construction.\n\n\nAdvanced Topics\n\nMany body quantum mechanics\nPerturbation theory\nScattering\n\nThe PDF is under construction."
+  },
+  {
+    "objectID": "notes/string-theory.html",
+    "href": "notes/string-theory.html",
+    "title": "String Theory",
+    "section": "",
+    "text": "Under construction"
   }
 ]

@@ -10,25 +10,21 @@ website:
         text: "Home"
       - href: cv.qmd
         text: "CV & Publications"
-      - text: "Undergraduate Notes"
+      - text: "Notes"
         menu:
-          - href: undergrad/classical-physics.qmd
-            text: "Classical Physics"
-          - href: undergrad/quantum-mechanics.qmd
-            text: "Quantum Mechanics"
-          - href: undergrad/mathematical-physics.qmd
+          - href: notes/mathematical-physics.qmd
             text: "Mathematical Physics"
-      - text: "Postgraduate Notes"
-        menu:
-          - href: postgrad/general-relativity.qmd
+          - href: notes/general-relativity.qmd
             text: "General Relativity"
-          - href: postgrad/qft-standard-model.qmd
+          - href: notes/quantum-mechanics.qmd
+            text: "Quantum Mechanics"
+          - href: notes/qft-standard-model.qmd
             text: "QFT and the Standard Model"
-          - href: postgrad/string-theory.qmd
+          - href: notes/string-theory.qmd
             text: "String Theory"
-          - href: postgrad/quantum-groups.qmd
+          - href: notes/quantum-groups.qmd
             text: "Quantum Groups"
-          - href: postgrad/higher-symmetries.qmd
+          - href: notes/higher-symmetries.qmd
             text: "Higher Symmetries"
 
 format:

@@ -43,5 +43,26 @@
   },
   "undergrad/mathematical-physics.qmd": {
     "mathematical-physics.html": "a3adb386"
+  },
+  "notes/general-relativity.qmd": {
+    "general-relativity.html": "fa9cbce0"
+  },
+  "notes/higher-symmetries.qmd": {
+    "higher-symmetries.html": "3881b392"
+  },
+  "notes/mathematical-physics.qmd": {
+    "mathematical-physics.html": "b020d28f"
+  },
+  "notes/qft-standard-model.qmd": {
+    "qft-standard-model.html": "30ca0205"
+  },
+  "notes/quantum-groups.qmd": {
+    "quantum-groups.html": "15c2c2ff"
+  },
+  "notes/quantum-mechanics.qmd": {
+    "quantum-mechanics.html": "366bc9f2"
+  },
+  "notes/string-theory.qmd": {
+    "string-theory.html": "7d20cb74"
   }
 }
