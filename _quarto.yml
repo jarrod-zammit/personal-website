@@ -14,10 +14,10 @@ website:
         menu:
           - href: notes/mathematical-physics.qmd
             text: "Mathematical Physics"
-          - href: notes/general-relativity.qmd
-            text: "General Relativity"
           - href: notes/quantum-mechanics.qmd
             text: "Quantum Mechanics"
+          - href: notes/general-relativity.qmd
+            text: "General Relativity"
           - href: notes/qft-standard-model.qmd
             text: "QFT and the Standard Model"
           - href: notes/string-theory.qmd
